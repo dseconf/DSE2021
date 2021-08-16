@@ -6,7 +6,7 @@ classdef nfxp
       samplesize=numel(data.d);
  
       % set options optimizer options for fminunc      
-      optim_options= optimset('Algorithm','trust-region', 'Display','off', 'GradObj','on', 'TolFun',1E-7,'TolX',1E-7,'Hessian','on');
+      optim_options= optimset('Algorithm','trust-region', 'Display','off', 'GradObj','on', 'TolFun',1E-8,'TolX',1E-7,'Hessian','on');
 
       % ************************************
       % STEP 1: ESTIMATE p 

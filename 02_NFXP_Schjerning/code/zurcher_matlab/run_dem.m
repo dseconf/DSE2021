@@ -1,6 +1,8 @@
 clear; close all;
 global ev0;  ev0=0;
 
+%Known issue: Demand curve does not excatly replicate Figure 7 in RUst 1987. 
+
 %% NFXP options
 ap=solve.setup;
 

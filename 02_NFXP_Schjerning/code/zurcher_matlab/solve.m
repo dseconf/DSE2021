@@ -26,7 +26,7 @@ classdef solve
 		 
 		  ap.pi_tol=			1.0e-12;			 % Final exit tolerance in fixed point algorithm, measured in units of numerical precision
 		     
-		  ap.tol_ratio=		1.0e-02;			 % Relative tolerance before switching to N-K algorithm  
+		  ap.tol_ratio=			1.0e-02;			 % Relative tolerance before switching to N-K algorithm  
 		  															 % when discount factor is supplied as input in solve.poly
 
 		  ap.printfxp=		0; 						 % Print iteration info for fixed point algorithm

@@ -1,4 +1,4 @@
-## Introduction to Deep Equilibrium Nets
+## Introduction to Deep Equilibrium Nets & Deep Structural Estimation
 
 This is a 90' crash course on "Deep Learning", "Deep Equilibrium Nets", and "Deep Structural Estimation" held at the [DSE Summerschool](https://dseconf.org/dse2021#) on August 22nd, 2021.
 

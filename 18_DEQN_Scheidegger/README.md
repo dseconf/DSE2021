@@ -19,4 +19,4 @@ This is a 90' crash course on "Deep Learning", "Deep Equilibrium Nets", and "Dee
 * [Simon Scheidegger](https://sites.google.com/site/simonscheidegger/) (HEC, University of Lausanne)
 
 
-The lectures will take place over Zoom.
+The lecture will take place over Zoom.
